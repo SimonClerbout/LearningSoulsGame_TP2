@@ -97,7 +97,7 @@ public class LearningSoulsGameTest {
                 Assert.assertEquals("[ Monster ]          Monster_7            LIFE:    1      STAMINA:   10     (ALIVE)", list[47]);
                 Assert.assertEquals("", list[48]);
                 Assert.assertEquals("Hit enter key for next move > ", list[49]);
-                Assert.assertEquals("Monster_7 attacks Gregooninator with Bloody Claw (ATTACK:146 | DMG : 100)", list[50]);
+                Assert.assertEquals("Monster_7   attacks Gregooninator with Bloody Claw (ATTACK:146 | DMG : 100)", list[50]);
                 Assert.assertEquals("[ Hero ]             Gregooninator        LIFE:    0      STAMINA:   30     (DEAD)", list[51]);
                 Assert.assertEquals("[ Monster ]          Monster_7            LIFE:    1      STAMINA:    5     (ALIVE)", list[52]);
                 Assert.assertEquals("", list[53]);
